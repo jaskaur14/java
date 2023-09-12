@@ -1,0 +1,5 @@
+package zooKeeper;
+
+public class Mammal {
+
+}
